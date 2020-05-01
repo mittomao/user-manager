@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name" : "Mao",
+        "address" : "Hà Nội",
+        "level" : 1
+    },
+    {
+        "id": 2,
+        "name" : "Bông",
+        "address" : "Hà Nội",
+        "level" : 2
+    },
+    {
+        "id": 3,
+        "name" : "Karry",
+        "address" : "Thái Bình",
+        "level" : 3
+    },
+    {
+        "id": 4,
+        "name" : "Duyên ",
+        "address" : "Thái Bình",
+        "level" : 3
+    },
+    {
+        "id": 5,
+        "name" : "Nguyễn Trường Tiến",
+        "address" : "Hà Nội",
+        "level" : 1
+    }
+]
